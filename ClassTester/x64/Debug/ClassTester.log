@@ -1,0 +1,6 @@
+﻿  clsCryptoEx.cpp
+\\GRSERVER\StudentiC_downloads\bischofmikulas\Downloads\crypto-GG-2.0-main\crypto-GG-2.0-main\ClassTester\clsCryptoEx.cpp(67,54): warning C4244: argument: LONGLONG se převádí na DWORD; může dojít ke ztrátě dat.
+\\GRSERVER\StudentiC_downloads\bischofmikulas\Downloads\crypto-GG-2.0-main\crypto-GG-2.0-main\ClassTester\clsCryptoEx.cpp(66,11): warning C4101: bytesWritten: neodkazovaná lokální proměnná
+\\GRSERVER\StudentiC_downloads\bischofmikulas\Downloads\crypto-GG-2.0-main\crypto-GG-2.0-main\ClassTester\clsCryptoEx.cpp(90,54): warning C4244: argument: LONGLONG se převádí na DWORD; může dojít ke ztrátě dat.
+\\GRSERVER\StudentiC_downloads\bischofmikulas\Downloads\crypto-GG-2.0-main\crypto-GG-2.0-main\ClassTester\clsCryptoEx.cpp(89,11): warning C4101: bytesWritten: neodkazovaná lokální proměnná
+  ClassTester.vcxproj -> \\GRSERVER\StudentiC_downloads\bischofmikulas\Downloads\crypto-GG-2.0-main\crypto-GG-2.0-main\x64\Debug\ClassTester.exe
